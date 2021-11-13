@@ -42,7 +42,7 @@
         <inputAssignments>
             <field>Subject</field>
             <value>
-                <stringValue>Initial Call</stringValue>
+                <stringValue>First Call</stringValue>
             </value>
         </inputAssignments>
         <object>Task</object>
